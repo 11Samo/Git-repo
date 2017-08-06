@@ -10,7 +10,8 @@ namespace PokusnaApka3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Pokusny vypis Master");
+            Console.WriteLine("Dalsi vypis z vedlajsej vetvy");
         }
     }
 }
