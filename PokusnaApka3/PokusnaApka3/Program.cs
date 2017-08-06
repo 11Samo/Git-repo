@@ -12,6 +12,7 @@ namespace PokusnaApka3
         {
             Console.WriteLine("Pokusny vypis Master");
             Console.WriteLine("Dalsi vypis z Mastra");
+            Console.WriteLine("Dalsi vypis z vedlajsej vetvy");
         }
     }
 }
